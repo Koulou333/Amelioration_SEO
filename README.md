@@ -7,6 +7,7 @@ Le site optimisé hébergé sur GitHub avec le rendu final : La Chouette Agence
 **Compétences évaluées
 
 Réaliser une recherche des bonnes pratiques en développement web.
+
 Assurer l'accessibilité d'un site web.
 Écrire un code HTML et CSS maintenable.
 Optimiser la taille et la vitesse d’un site web.
