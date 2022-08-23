@@ -1,6 +1,8 @@
-📎 Projet 4 - Optimisez le site web existant "La Chouette Agence"
-Optimiser le SEO d'un site
-Le site optimisé hébergé sur GitHub avec le rendu final : La Chouette Agence
+📎 Projet 4 - Optimisez le site web existant "La Panthère"
+
+Optimiser le SEO d'un site.
+
+Le site optimisé hébergé sur GitHub avec le rendu final : La Panthère
 
 🔨 Optimisez un site web existant
 
